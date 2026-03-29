@@ -19201,17 +19201,17 @@
     "repo": "NateScarlet/obsidian-content-addressed-attachments"
   },
   {
-    "id": "forqan",
-    "name": "Forqan",
-    "author": "Youcef",
-    "description": "Read and study the Quran with browsing, search, vault generation, and custom collections.",
-    "repo": "youcef-mo/forqan_obs"
-  },
-  {
     "id": "post-to-bluesky",
     "name": "Post To Bluesky",
     "author": "Rie Tamura",
     "description": "Post selected text or entire note to Bluesky.",
     "repo": "RieTamura/Post-To-Bluesky"
+  },
+  {
+    "id": "forqan",
+    "name": "Forqan",
+    "author": "Youcef",
+    "description": "Read and study the Quran with browsing, search, vault generation, and custom collections.",
+    "repo": "youcef-mo/forqan_obs"
   }
 ]
